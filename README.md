@@ -12,12 +12,12 @@
   <a href="">
     <img src="" alt="LICENSE">
   </a>
-  <a href="https://www.nanqiaoshichuang.com?utm_source=github.com">
+  <a href="https://ai.nanqiaoshichuang.com?utm_source=github.com">
     <img src="" alt="Author 南桥时创科技">
   </a>
 </div>
 <p align="center">
-    👋 关注公众号 加入我们的  <a href="docs/WECHAT.md" target="_blank">WeChat</a>
+    👋 关注公众号【南桥时创技术团队】 或扫码加入我们的  <a href="docs/WECHAT.md" target="_blank">WeChat</a>
 </p>
 
 *Read this in [English](README_en.md).*
